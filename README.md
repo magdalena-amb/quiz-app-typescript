@@ -1,4 +1,4 @@
-###[PROJECT DEMO](https://react-quiz-ts.web.app)
+### [PROJECT DEMO](https://react-quiz-ts.web.app)
 ___
 
 React + Typescript project with styled-components and opentdb.com Trivia API.
